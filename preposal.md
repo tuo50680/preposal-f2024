@@ -2,12 +2,13 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Memory game 
+Interactive Tic Tac Toe 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Iman Akaff
 
 ## Do you have any questions of your own?
 
-TODO
+Not as of now. 
